@@ -1,2 +1,2 @@
 # Moriarty-Studio
-Plataforma multidisciplinar de desarrollo, despliegue y orquestación de servicios de inteligencia artificial.
+Multidisciplinar platform for the development, deployment and orchestration of AI services 
